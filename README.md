@@ -19,6 +19,8 @@
 
 # Flowchart Representation of Simon Says Game 
 <img width="467" alt="Screenshot 2024-05-18 at 11 12 40 PM" src="https://github.com/briancheng195/Simon-Says-Memory-Game-with-Arduino/assets/122734373/a1b4358a-246d-4a43-8596-920adad6e643">
+
+# Files 
 - Code for Input Unit: SampleInputUnit.h
 - Code for Control Unit: SampleControlUnit.h
 - Code for Output Unit: SampleOutputUnit.h
