@@ -19,6 +19,12 @@
 
 # Flowchart Representation of Simon Says Game 
 <img width="467" alt="Screenshot 2024-05-18 at 11 12 40 PM" src="https://github.com/briancheng195/Simon-Says-Memory-Game-with-Arduino/assets/122734373/a1b4358a-246d-4a43-8596-920adad6e643">
+- Code for Input Unit: SampleInputUnit.h
+- Code for Control Unit: SampleControlUnit.h
+- Code for Output Unit: SampleOutputUnit.h
+- Code to Run Basic Features and Advanced Features for Simon Says Game: SampleThreeUnitSystem.h
+- Code to Run Simon Says Game in Arduino: TestThreeUnitSystem.ino
+- Libraries used for LEDs: beginner_LED.ino
 
 # Circuit Diagram for Simon Says Game (Basic Features)
 <img width="489" alt="Screenshot 2024-05-18 at 11 13 55 PM" src="https://github.com/briancheng195/Simon-Says-Memory-Game-with-Arduino/assets/122734373/2060c977-046f-4c03-97ea-2046c9ba482d">
