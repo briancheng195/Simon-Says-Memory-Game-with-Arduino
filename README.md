@@ -2,6 +2,21 @@
 - Developed a memory-based game with Arduino by integrating press buttons, speaker and LED components to create a programmable control system
 - Design and implementation of Object-Oriented Programming (OOP) classes for microcontroller-based software development
 
+# Objectives of Simon Says Game (Basic Features)
+- Simon Says generates a random 3 digit number sequence and the LEDs act as a visualisation tool to indicate to the player about
+  the sequence
+- The player follows Simon Says by remembering Simon's 3 digit number sequence and follows his input by pressing the buttons
+- If the player matches Simon Says, the player wins the round. If the player does not match the same 3 digit sequence as Simon,
+  Simon wins the round
+- Best of 3 rounds determines the winner of the match
+
+# Objectives of Simon Says Game (Advanced Features)
+- Game rules are the same as for basic features
+- Integration of Buzzer as audio cues for different outcomes for each round and match
+- Game difficulty increases by increasing digit sequence if the player wins the previous match
+- Game difficulty decreases by decreasing digit sequence if Simon wins the previous match
+- Best of 8 rounds with tiebreaker 
+
 # Flowchart Representation of Simon Says Game 
 <img width="467" alt="Screenshot 2024-05-18 at 11 12 40 PM" src="https://github.com/briancheng195/Simon-Says-Memory-Game-with-Arduino/assets/122734373/a1b4358a-246d-4a43-8596-920adad6e643">
 
