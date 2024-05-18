@@ -15,7 +15,13 @@
 - Integration of Buzzer as audio cues for different outcomes for each round and match
 - Game difficulty increases by increasing digit sequence if the player wins the previous match
 - Game difficulty decreases by decreasing digit sequence if Simon wins the previous match
-- Best of 8 rounds with tiebreaker 
+- Best of 8 rounds with tiebreaker
+
+# Simon Says Gameplay (Basic Features)
+https://www.youtube.com/watch?v=NLrQjWRb2S0
+
+# Simon Says Gameplay (Advanced Features)
+https://youtu.be/gvNzHYf7egU
 
 # Flowchart Representation of Simon Says Game 
 <img width="467" alt="Screenshot 2024-05-18 at 11 12 40 PM" src="https://github.com/briancheng195/Simon-Says-Memory-Game-with-Arduino/assets/122734373/a1b4358a-246d-4a43-8596-920adad6e643">
