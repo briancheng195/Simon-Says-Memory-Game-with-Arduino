@@ -2,6 +2,8 @@
 - Developed a memory-based game with Arduino by integrating press buttons, speaker and LED components to create a programmable control system
 - Design and implementation of Object-Oriented Programming (OOP) classes for microcontroller-based software development
 
+<img width="467" alt="Screenshot 2024-05-18 at 11 12 40 PM" src="https://github.com/briancheng195/Simon-Says-Memory-Game-with-Arduino/assets/122734373/a1b4358a-246d-4a43-8596-920adad6e643">
+
 # SampleThreeUnitSystem.h file 
 - It is the setup to run the Simon Says game for a match
 - Imports the libraries from the Input, Control and Output units, so as to call for the various methods to run the game
