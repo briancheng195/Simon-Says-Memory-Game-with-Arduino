@@ -17,14 +17,8 @@
 - Game difficulty decreases by decreasing digit sequence if Simon wins the previous match
 - Best of 8 rounds with tiebreaker
 
-# Simon Says Gameplay (Basic Features)
-https://www.youtube.com/watch?v=NLrQjWRb2S0
-
-# Simon Says Gameplay (Advanced Features)
-https://youtu.be/gvNzHYf7egU
-
-# Flowchart Representation of Simon Says Game 
-<img width="467" alt="Screenshot 2024-05-18 at 11 12 40 PM" src="https://github.com/briancheng195/Simon-Says-Memory-Game-with-Arduino/assets/122734373/a1b4358a-246d-4a43-8596-920adad6e643">
+# Proof of Concept
+<img width="500" alt="Screenshot 2024-05-18 at 11 12 40 PM" src="https://github.com/briancheng195/Simon-Says-Memory-Game-with-Arduino/assets/122734373/a1b4358a-246d-4a43-8596-920adad6e643">
 
 # Files 
 - Code for Input Unit: SampleInputUnit.h
@@ -34,11 +28,11 @@ https://youtu.be/gvNzHYf7egU
 - Code to Run Simon Says Game in Arduino: TestThreeUnitSystem.ino
 - Libraries used for LEDs: beginner_LED.ino
 
-# Circuit Diagram for Simon Says Game (Basic Features)
-<img width="489" alt="Screenshot 2024-05-18 at 11 13 55 PM" src="https://github.com/briancheng195/Simon-Says-Memory-Game-with-Arduino/assets/122734373/2060c977-046f-4c03-97ea-2046c9ba482d">
+# Electronics Design for Simon Says Game (Basic Features)
+<img width="500" alt="Screenshot 2024-05-18 at 11 13 55 PM" src="https://github.com/briancheng195/Simon-Says-Memory-Game-with-Arduino/assets/122734373/2060c977-046f-4c03-97ea-2046c9ba482d">
 
-# Circuit Diagram for Simon Says Game (Advanced Features)
-<img width="485" alt="Screenshot 2024-05-18 at 11 14 22 PM" src="https://github.com/briancheng195/Simon-Says-Memory-Game-with-Arduino/assets/122734373/d07376b8-fe3e-492c-aa15-d540165f56d0">
+# Electronics Design for Simon Says Game (Advanced Features)
+<img width="500" alt="Screenshot 2024-05-18 at 11 14 22 PM" src="https://github.com/briancheng195/Simon-Says-Memory-Game-with-Arduino/assets/122734373/d07376b8-fe3e-492c-aa15-d540165f56d0">
 
 # SampleThreeUnitSystem.h file 
 - It is the setup to run the Simon Says game for a match
@@ -78,3 +72,9 @@ https://youtu.be/gvNzHYf7egU
 # method score()
 - This method is created so as to print the scores of the User and Simon, before the countdown and the start of each game.
   Whenever a new match begins, the scores reset and it is indicated before the game.
+
+# Video Documentation for Simon Says Gameplay (Basic Features)
+https://www.youtube.com/watch?v=NLrQjWRb2S0
+
+# Video Documentation for Simon Says Gameplay (Advanced Features)
+https://youtu.be/gvNzHYf7egU
